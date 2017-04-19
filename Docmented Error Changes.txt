@@ -1,0 +1,5 @@
+IglooScore2.java contains an error on line 44. s2 should be assigned to score3 but incorrectly
+   assigns s2 to score2. Changed score2 to score3 on line 44
+
+IglooScore2.java contains an error on line 58. args==null is un-needed code. Changed if statement to
+   only check for args.length.
